@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bilal Ahmad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400px" src="https://giphy.com/gifs/zero21surf-www-gppark-greenplacepark-n1dFDLwXu4Qkwy7OJ0">
+<img align="right" alt="coding" width="400px" src="https://github.com/bilalahmad3013/bilalahmad3013/assets/98654652/dba8e09f-bd31-4c24-8b0a-e2bf9952670b
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalahmad3013&label=Profile%20views&color=0e75b6&style=flat" alt="bilalahmad3013" /> </p>
 
